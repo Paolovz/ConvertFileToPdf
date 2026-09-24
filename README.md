@@ -42,10 +42,6 @@ output as small as possible without quality loss.
 - Microsoft Office or LibreOffice (only needed for Office document types)
 - Nothing else — the app is a self-contained executable; no Python required
 
-## Source code
-
-The full source code is available at [Paolovz/FileToPdf](https://github.com/Paolovz/FileToPdf).
-
 ## License
 
 Released under the [MIT License](LICENSE).
